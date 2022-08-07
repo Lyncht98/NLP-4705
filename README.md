@@ -2,8 +2,8 @@
 
 HW1: N-Grams, probabilities, smoothing, perplexity, text classification 
 
-HW2: PCFG, HMM, Earley, CKY, Transition Based Dependency, and parsing using all these
+HW2: All things parsing: PCFG, HMM, Earley, CKY, Transition Based Dependency
 
-HW3: Neural Network Dependency Parsing
+HW3: Traing parsers using NN
 
-HW4: Training NN to describe photos
+HW4: NN to generate photo descriptions
